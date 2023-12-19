@@ -1,4 +1,4 @@
-const targetDate = new Date('2024-01-15')
+const targetDate = new Date('2024-01-15') // <- Change the date here
 
 const updateTimer = () => {
     const today = new Date()
